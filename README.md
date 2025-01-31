@@ -1,1 +1,2 @@
 # DATA-AND-INFORMATION-QUALITY-PROJECT
+This project is part of the Data and Information Quality course. The Jupyter Notebook file, project_complete.ipynb, demonstrates a comprehensive data preparation pipeline for the noisy dataset, attacks.csv. The pipeline covers key processes such as Data Profiling and Data Quality Assessment, Data Transformation, Error Detection and Correction, and Data Deduplication. Additionally, the accompanying DQ_report.pdf provides an in-depth explanation of the project and its methodologies.
